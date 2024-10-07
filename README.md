@@ -1,36 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Java HashMap Examples</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-left: 5px solid #ccc;
-            overflow-x: auto;
-        }
-        code {
-            font-family: Consolas, Monaco, monospace;
-        }
-        ul {
-            list-style-type: square;
-            margin-left: 20px;
-        }
-        a {
-            color: #1a73e8;
-        }
-    </style>
-</head>
+
+
 <body>
     <h1>Java HashMap Examples</h1>
     <p>This project contains Java code examples demonstrating how to use HashMaps in Java. The project showcases how to manipulate HashMaps, including adding, retrieving, removing elements, and counting the occurrences of words in a sentence using a HashMap.</p>
