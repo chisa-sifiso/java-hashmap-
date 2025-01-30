@@ -85,7 +85,7 @@ king 1
 
   <h2 id="contributing">Contributing</h2>
     <p>If you wish to contribute to this project, feel free to open a pull request. All contributions are welcome!</p>
-
+<h2>Developed by Sifiso Vinjwa</h2>
    <h2 id="license">License</h2>
     <p>This project is licensed under the MIT License.</p>
 </body>
