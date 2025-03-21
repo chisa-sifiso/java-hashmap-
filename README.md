@@ -23,7 +23,7 @@
     <h3>Running the Program</h3>
     <ol>
         <li>Clone the repository:</li>
-        <pre><code>git clone https://github.com/your-username/java-hashmap-examples.git</code></pre>
+        <pre><code>git clone https://github.com/chisa-sifiso/java-hashmap-examples.git</code></pre>
         <li>Open the project in your IDE.</li>
         <li>Run the <code>Hashmap</code> class from the <code>hashmap</code> package.</li>
     </ol>
